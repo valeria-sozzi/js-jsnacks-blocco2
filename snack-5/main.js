@@ -1,0 +1,1 @@
+//crea due array che hanno un numero di elementi diversi. aggiungi gli elementi casuali all'array che ha meno elementi fino a quando ne avrà tanti qunati l'altro

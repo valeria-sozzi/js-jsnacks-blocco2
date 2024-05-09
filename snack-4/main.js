@@ -1,0 +1,1 @@
+//crea un array di numeri interi e fai la somma di tutti li elementi che sono in posizione dispari
